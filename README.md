@@ -32,4 +32,4 @@ To get started with this project, make sure you have the following installed on 
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/mi_card_app.git
+   git clone https://github.com/ngochoa203/mi_card_app.git
