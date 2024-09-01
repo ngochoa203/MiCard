@@ -33,3 +33,12 @@ To get started with this project, make sure you have the following installed on 
 1. Clone this repository:
    ```sh
    git clone https://github.com/ngochoa203/mi_card_app.git
+2. Navigate to the project directory:
+   ```sh
+   cd mi_card_app
+4. Install dependencies:
+   ```sh
+   flutter pub get
+6. Running the App
+   ```sh
+   flutter run
