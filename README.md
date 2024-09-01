@@ -1,16 +1,35 @@
-# mi_card_app
+# Mi Card App
 
-A new Flutter project.
+## Description
+Mi Card App is a Flutter project designed to showcase a simple personal card with information such as name, contact details, address, and age. It uses custom fonts and provides a clean, user-friendly interface.
+
+## Version Information
+
+- **Flutter SDK**: 3.24.0
+- **Dart SDK**: 3.5.0
+- **Android SDK**: 35.0.0
+  - **Build-tools**: 35.0.0
+  - **Platform**: android-35
+- **Java SDK**: OpenJDK 17.0.11
+- **CMake**: 3.25.1
+- **Ninja**: 1.11.1
+- **pkg-config**: 1.8.1
+
+## Development Tools
+
+- **Android Studio**: 2024.1
+- **Visual Studio Code**: 1.92.2
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, make sure you have the following installed on your system:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Flutter SDK**: Follow the installation guide at [Flutter Installation](https://flutter.dev/docs/get-started/install).
+2. **Android Studio**: Download from [Android Studio](https://developer.android.com/studio).
+3. **Visual Studio Code**: Get it from [Visual Studio Code](https://code.visualstudio.com/).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/mi_card_app.git
